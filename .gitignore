@@ -7,3 +7,4 @@
 **/*.log
 tests/**/__pycache__
 result
+xdvdfs-web/src/.DS_Store
